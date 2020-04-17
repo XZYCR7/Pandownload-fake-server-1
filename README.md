@@ -40,8 +40,7 @@ server_address = ('127.0.0.1', port) #default ip address
 并且将这个ip地址改成所需要的ip地址
 
  - 方法2：如果想在同一台机子上运行该服务（此方法将不需要一台linux服务器）：
- *注意：使用pandownload时请勿关闭该powershell窗口*
-找到[pandownload-fake-server](/pandownload-fake-server/)文件夹并在该目录下启动powershell然后输入：
+ 找到[pandownload-fake-server](/pandownload-fake-server/)文件夹并在该目录下启动powershell然后输入：*注意：使用pandownload时请勿关闭该powershell窗口*
 ```
 python -m http.server --bind 0.0.0.0 80
 ```
