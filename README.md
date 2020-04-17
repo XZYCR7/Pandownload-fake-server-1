@@ -2,10 +2,10 @@
 替代pandownload原本的服务器文件以绕过pandownload启动问题
 这是一个傻瓜式教程
 
-##需求：
+## 需求：
 - python3 或者更高
 - 一台服务器（推荐linux）
-##使用：
+## 使用：
 1. 下载该文件并解压
 2. 这里边一共有两个文件夹，[pan](/Pandownload/)为pandownload本体程序，而[pandownload-fake-server](/pandownload-fake-server/)为虚假服务器文件。
 3.
@@ -63,5 +63,5 @@ C:\Windows\System32\Drivers\etc\hosts
 5.尝试启动pandownload
 *祝阁下好运*
 
-##声明：
+## 声明：
 该程序以及文件仅供学习交流用，请勿作违法用途，作者不承担任何责任
